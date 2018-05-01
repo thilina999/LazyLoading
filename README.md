@@ -1,1 +1,1 @@
-This is simple module that will demonstrate lazy loading component.
+This is demonstrates a lazy loading component in an ionic app.
